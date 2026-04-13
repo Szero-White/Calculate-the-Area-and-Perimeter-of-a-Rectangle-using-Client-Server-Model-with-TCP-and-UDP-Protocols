@@ -20,12 +20,12 @@ Người dùng nhập chiều dài, chiều rộng trên **Client GUI** → gử
 ## 🖼️ Ảnh minh họa
 
 <p align="center">
-  <img src="Image/tcp-demo.png" alt="Giao diện TCP" width="420"/>
+  <img src="Image/h1.jpg" alt="Giao diện TCP" width="420"/>
   <br><i>Chương trình chạy bằng TCP</i>
 </p>
 
 <p align="center">
-  <img src="Image/udp-demo.png" alt="Giao diện UDP" width="420"/>
+  <img src="Image/h2.jpg" alt="Giao diện UDP" width="420"/>
   <br><i>Chương trình chạy bằng UDP</i>
 </p>
 
